@@ -1,4 +1,4 @@
-# 
+# Premium CCleaner plugins for Mac OS | Custom CCleaner plugins for PC Windows. Featuring windows tweaks and browser cleanup — optimized for maximum performance on every platform.
 
 
 
